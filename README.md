@@ -6,8 +6,8 @@ These analyses show that the results of the GUILD currency card packs were uneve
 
 ### Files:
 
-`cleaned_data.csv` - table containing draw data with rarities and running totals
-`analysis.csv` - results of hypergeometic probability calculations
+`cleaned_data.csv` - table containing draw data with rarities and running totals  
+`analysis.csv` - results of hypergeometic probability calculations  
 
 
 
