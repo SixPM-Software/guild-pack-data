@@ -1,7 +1,7 @@
 # guild-pack-data
 
 ## TL;DR 
-These analyses show that the results of the packs were unevenly distributed. 
+These analyses show that the results of the GUILD currency card packs were unevenly distributed. 
 **The problem has been patched by NeftyBlocks.**
 
 ### Files:
