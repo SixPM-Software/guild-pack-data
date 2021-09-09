@@ -1,8 +1,16 @@
 # guild-pack-data
-Data dump from guild packs
+
+## TL;DR 
+These analyses show that the results of the packs were unevenly distributed. 
+**The problem has been patched by NeftyBlocks.**
+
+### Files:
 
 `cleaned_data.csv` - table containing draw data with rarities and running totals
 `analysis.csv` - results of hypergeometic probability calculations
+
+
+
 
 ### TL;DR tables
 
