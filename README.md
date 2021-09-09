@@ -16,8 +16,8 @@ These analyses show that the results of the GUILD currency card packs were uneve
 
 Template A = Common, Template B = Rare, Template C = Secret Rare, Template D = Unique
 
-**Analysis of pack opens 1-691 (when the final non-common was drawn)  
+**Analysis of pack opens 1-691 (when the final non-common was drawn)**  
 ![Table1](img/table1.png)
 
-**Analysis of pack opens 1-295 (after which only 1 rare remained)  
+**Analysis of pack opens 1-295 (after which only 1 rare remained)**  
 ![Table1](img/table2.png)
